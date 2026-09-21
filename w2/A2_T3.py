@@ -1,0 +1,6 @@
+print("Program starting.")
+world1 = str(input("Insert first word: "))
+world2 = str(input("Insert second word: "))
+print(f"1st word is {len(world1)} characters long.")
+print(f"2nd word is {len(world2)} characters long.")
+print(f"Words together makes one closed compound '{world1 + world2}'.\nProgram ending.")

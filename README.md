@@ -4,3 +4,7 @@ link for repo tasks
 W1_5 = https://github.com/hoomanehedayati/W1_5.git
 
 W1_6 = https://github.com/hoomanehedayati/W1_6.git
+
+W2_5 = 
+
+W2_6 = https://github.com/hoomanehedayati/W2_6.git

@@ -9,4 +9,6 @@ W2_5 = https://github.com/hoomanehedayati/W2_5.git
 
 W2_6 = https://github.com/hoomanehedayati/W2_6.git
 
-w3_5= https://github.com/hoomanehedayati/W3_5.git
+w3_5 = https://github.com/hoomanehedayati/W3_5.git
+
+w3_6 = https://github.com/hoomanehedayati/W3_6.git

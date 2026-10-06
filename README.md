@@ -14,3 +14,5 @@ w3_5 = https://github.com/hoomanehedayati/W3_5.git
 w3_6 = https://github.com/hoomanehedayati/W3_6.git
 
 w4_6 = https://github.com/hoomanehedayati/W4_6.git
+
+w4_7 = https://github.com/hoomanehedayati/W4_7.git

@@ -16,5 +16,10 @@ else:
   for i in range(num1,num2):
     if i == num3:
       continue
+    else:
+      if i == num2-1:
+        print(i)
+      else:
+        print(i,end=" ")  
     print(i,end=" ")
 print("\nProgram ending.")    

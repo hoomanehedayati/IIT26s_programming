@@ -27,7 +27,7 @@ def main():
         else:
             print("Unknown option! try again.")
 
-        print()
+        print("")
         showOptions()
         choice = askChoice()
 
